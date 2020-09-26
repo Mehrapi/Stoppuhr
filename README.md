@@ -1,4 +1,4 @@
-# Hallo 👋!
+# Hallo 👋 und wilkommen auf meinem Stoppuhr Repository!
 
 **Diese ist eine einfache Stoppuhr projekt 👉⏱ in Java GUI Applikation!**
 

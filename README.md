@@ -1,6 +1,8 @@
-# Hallo 👋 und wilkommen auf meinem Stoppuhr Repo!
+# Hallo 👋 !
 
-**Diese ist eine einfache Stoppuhr projekt ⏱ in Java GUI Applikation!**
+**Wilkommen auf meinem Stoppuhr Repo!
+
+Diese ist eine einfache Stoppuhr projekt ⏱ in Java GUI Applikation!
 
 Das Bild unten 👆🤭👇 zeigt, wie die Stopuhr aussieht. Die Stoppuhr kann man pausieren ⏸ und dannach weiter führen▶.
 

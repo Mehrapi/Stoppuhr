@@ -1,6 +1,6 @@
 # Hallo 👋 !
 
-**Wilkommen auf meinem Stoppuhr Repo!
+**Wilkommen auf meinem Stoppuhr Repo!**
 
 Diese ist eine einfache Stoppuhr projekt ⏱ in Java GUI Applikation!
 
